@@ -17,10 +17,7 @@ After Effectsに自動で読み込むスクリプトです。
 ## 開発環境
 - VSCode
 - Adobe ExtendScript Toolkit
-- OS: Windows10 / macOS Ventura
-
-## スクリーンショット
-![screenshot](screenshot.png)
+- OS: Windows10
 
 ## 作者
 en kou（撮影スタッフ・スクリプト開発）
